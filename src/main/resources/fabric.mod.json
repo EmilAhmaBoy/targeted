@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "targeted",
+  "version": "${version}",
+  "name": "Targeted",
+  "description": "Targeted - это мод, который даст вам способность видеть траекторию движения снарядов и мобов, в которых нацелены эти самые снаряды.",
+  "authors": [
+    "EmilAhmaBoy"
+  ],
+  "contact": {
+    "repo": "https://github.com/EmilAhmaBoy/targeted"
+  },
+  "license": "unlicense",
+  "icon": "assets/targeted/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "org.emilahmaboy.targeted.targeted.client.TargetedClient"
+    ],
+    "main": [
+      "org.emilahmaboy.targeted.targeted.Targeted"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
