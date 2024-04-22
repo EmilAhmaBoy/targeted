@@ -1,0 +1,6 @@
+{
+  "text.targeted.no_name": "Безымянный",
+  "text.targeted.no_description": "Без описания",
+  "text.targeted.show_throwing_trajectory": "Отображать траекторию броска",
+  "text.targeted.show_throwing_trajectory_description": "Отвечает за настройку отображения возможной траектории полёта снаряда, находящегося в руке игрока."
+}

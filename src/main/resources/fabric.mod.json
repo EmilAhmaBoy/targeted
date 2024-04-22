@@ -15,10 +15,10 @@
   "environment": "client",
   "entrypoints": {
     "client": [
-      "org.emilahmaboy.targeted.targeted.client.TargetedClient"
+      "com.emilahmaboy.targeted.client.TargetedClient"
     ],
     "main": [
-      "org.emilahmaboy.targeted.targeted.Targeted"
+      "com.emilahmaboy.targeted.Targeted"
     ]
   },
   "depends": {

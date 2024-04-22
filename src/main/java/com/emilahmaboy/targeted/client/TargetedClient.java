@@ -1,4 +1,4 @@
-package org.emilahmaboy.targeted.targeted.client;
+package com.emilahmaboy.targeted.client;
 
 import net.fabricmc.api.ClientModInitializer;
 
