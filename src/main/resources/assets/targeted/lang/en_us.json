@@ -1,6 +1,8 @@
 {
-  "text.targeted.no_name": "No name",
-  "text.targeted.no_description": "No description",
-  "text.targeted.show_throwing_trajectory": "Show throwing trajectory",
-  "text.targeted.show_throwing_trajectory_description": "Configures in-hand projectile potential trajectory preview appearance"
+  "dev.emilahmaboy.targeted.config.general": "General",
+  "dev.emilahmaboy.targeted.config.general_description": "Manages mod's general settings",
+  "dev.emilahmaboy.targeted.config.trajectory_settings": "Trajectory settings",
+  "dev.emilahmaboy.targeted.config.trajectory_settings_description": "Manages trajectory performance and calculations",
+  "dev.emilahmaboy.targeted.config.show_throwing_trajectory": "Show throwing trajectory",
+  "dev.emilahmaboy.targeted.config.show_throwing_trajectory_description": "Configures in-hand projectile potential trajectory preview appearance"
 }

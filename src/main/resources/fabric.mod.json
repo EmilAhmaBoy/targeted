@@ -15,12 +15,18 @@
   "environment": "client",
   "entrypoints": {
     "client": [
-      "com.emilahmaboy.targeted.client.TargetedClient"
+      "dev.emilahmaboy.targeted.client.TargetedClient"
     ],
     "main": [
-      "com.emilahmaboy.targeted.Targeted"
+      "dev.emilahmaboy.targeted.Targeted"
+    ],
+    "modmenu": [
+      "dev.emilahmaboy.targeted.config.ModMenuImplement"
     ]
   },
+  "mixins": [
+    "targeted.mixins.json"
+  ],
   "depends": {
     "fabricloader": ">=${loader_version}",
     "fabric": "*",
